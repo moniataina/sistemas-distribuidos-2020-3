@@ -15,10 +15,10 @@ Logo, a necessidade de computadores serem interligados entre si com o objetivo d
 O advento tanto da ARPANET e mais a frente da internet induziram a grande escala de alicações e utilizações distribuídas.
 
 **evolução histórica:**
-   1970s
-    -Estações de trabalho mono-usuário:
-    -SUN, XEROX e Apple
-    -Primeiros sistemas distribuídos experimentais
+1970s
+- Estações de trabalho mono-usuário:
+-SUN, XEROX e Apple
+-Primeiros sistemas distribuídos experimentais
 
 1980s
  Microprocessadores com alto poder computacional
