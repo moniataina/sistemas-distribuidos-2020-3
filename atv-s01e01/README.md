@@ -69,6 +69,9 @@ devem tambem ser avaliados.
 como solucionar esses problemas?
 
 replicação:
+A replicação é uma técnica para melhorar serviços e desempenhos em SD, podendo ser realizada via software,( por exemplo quando num banco de dados, tabelas, etc), ou replicar via hardware(volume de disco, por exemplo).
+a tecnica de replicação pode por exemplo ajudar muito nos problemas de latência( SDs de grande distancia). entretanto essa tecnica tambem causa um outro problema que é o de consistencia de dados.
+
 
 
 
