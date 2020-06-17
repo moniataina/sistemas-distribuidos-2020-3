@@ -7,7 +7,7 @@ Em convenção, idealizar de forma mais fácil um sistema distribuído é imagin
 
 Tanenbaum explorou a idéia de que o usuário não tem ciência que há diversos computadores, nem onde estes estão localizados, enfatizando assim a ideia de um sistema colaborativo com apresentação unica.
 
-*Mas onde começou essa ideia?*
+**Mas onde começou essa ideia?**
 
 Nos anos 60 o modelo utilizado a par de processamento de informações era o modelo de sistema centralizado. Mainframes centralizavam a manipulação, armazenamento e tratamento dos dados através dos terminais "burros".
 Os SC são sistemas que possuem pouco poder de tempo compartilhado, necessitando na época de  robustos mainframes para funcionar com qualidade. 
