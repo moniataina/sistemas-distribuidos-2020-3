@@ -58,6 +58,13 @@ Extensibilidade
 pode ser necessário em alguma hora a adição de recursos ( seja Extensões de hardware ou de software) em um sistema distribuido sem que essa adição prejudique o funcionamento daqueles outros serviços que ja estavam em funcionamento antes.
 
 
+Escalabidade em SD
+Em determinadas situações é desejavel o aumento da capacidade de desemepenho. Aumento de usuários e recursos, distância de usuários(geografia) ou a necessidade de administração facilitada( mesmo em varias organizações diferentes) , são os motivos pelos quais deve-se analisar a medição de capacidade de desempenho em SD.
+
+
+
+
+
 
 
 
