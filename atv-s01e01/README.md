@@ -32,7 +32,8 @@ Disponibilidade e facilidade de comunicação
 
 Proposta da utilização dos sistemas distribuidos:
  Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva economica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
- 
+Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
+
 
 Vantagens 
 economica: mais recursos atraves do compartilhamento
