@@ -1,4 +1,5 @@
 # *Sistemas Distribuídos*
+> monia tavares - Ciência da Computação - UFMA
 
 conceitos iniciais
 
