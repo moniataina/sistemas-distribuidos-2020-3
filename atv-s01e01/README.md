@@ -16,9 +16,9 @@ O advento tanto da ARPANET e mais a frente da internet induziram a grande escala
 
 **evolução histórica:**
    1970s
-    - Estações de trabalho mono-usuário:
-    - SUN, XEROX e Apple
-    - Primeiros sistemas distribuídos experimentais
+    -Estações de trabalho mono-usuário:
+    -SUN, XEROX e Apple
+    -Primeiros sistemas distribuídos experimentais
 
 1980s
  Microprocessadores com alto poder computacional
