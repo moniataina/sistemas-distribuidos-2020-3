@@ -45,7 +45,8 @@ dias atuais:
 
 **Interoperabilidade**
 Em tecnologia entende-se por interoperabilidade a capacidade de um sistema de se comunicar de forma transparente com outro sistema (semelhante ou não). Reforça-se que para um sistema ser interoperavel este deve trabalhar com modelos (padrões) abertos.
-até que ponto 2 implementações de fornecedores diferentes podem coexistir e trabalhar em conjunto com base na mera confiança mútua"
+
+"*até que ponto 2 implementações de fornecedores diferentes podem coexistir e trabalhar em conjunto com base na mera confiança mútua*"
 
 **Portabilidade**
 A portabilidade também é uma característica importante, sendo uma maneira de garantir que um sistema funcione em um outro sistema sem a mesma interfaces e equipamentos do sistema de origem. Para essa característica ser aplicada é importante a padronização dos serviços.
