@@ -40,7 +40,7 @@ dias atuais:
 - Segurança: em sistemas distribuídos o acesso a informações reservadas pode ser prejudicial a segurança
 - saturação da rede de comunicação.
 
-**Motivações da utilização dos sistemas distribuidos:**
+#### Motivações da utilização dos sistemas distribuidos
  Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
 Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
 
