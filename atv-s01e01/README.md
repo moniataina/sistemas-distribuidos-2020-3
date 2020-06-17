@@ -41,8 +41,7 @@ dias atuais:
 - saturação da rede de comunicação.
 
 ### Motivações da utilização dos sistemas distribuidos
- Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
-Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
+ Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo). Juntava-se, portanto a atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade), sendo recursos desejaveis em um SD.
 
 **Interoperabilidade**
 Em tecnologia entende-se por interoperabilidade a capacidade de um sistema de se comunicar de forma transparente com outro sistema (semelhante ou não). Reforça-se que para um sistema ser interoperavel este deve trabalhar com modelos (padrões) abertos.
