@@ -77,11 +77,15 @@ Consiste em dividir componentes espalhando estes pelo sistema. Um exemplo é o d
 **ocultação de latência**
 esse método é geralmente o meio utilizado para lidar com falhas de escabilidade causadas por distância ( geográfica). A ideia é apenas evitar por respostas a requisições( utilizando a comunicação assícrona)
 
-**REFERÊNCIAS**
-ANTUNES,  Alexssandro C. **Conceitos de Sistemas Distribuídos**. visto em https://alexssandroantunes.files.wordpress.com/2013/08/conceitos_sd.pdf
+##### REFERÊNCIAS
+ANTUNES,  Alexssandro C. **Conceitos de Sistemas Distribuídos**. visto em https://alexssandroantunes.files.wordpress.com/2013/08/conceitos_sd.pdf 
+
 MACÊDO, Diêgo. **O que é Interoperabilidade?**. Visto em: https://www.diegomacedo.com.br/o-que-e-interoperabilidade/#:~:text=Seja%20um%20sistema%20de%20portal,nem%20somente%20integração%20de%20redes.
+
 MARTINS, Simone de lima. **Sistemas Distribuídos:** Caracteristicas. visto em http://www.ic.uff.br/~simone/sd/contaulas/aula1.pdf.
+
 SIMÕES, Marcos A. **Introdução às Redes de Computadores**. visto em http://masimoes.pro.br/site/redes/01_Intro/.
+
 Disciplina de Sistemas distribuídos: **Técnicas de Escalabilidade - Sistemas Distribuidos**. Visto em: http://sistemasdistribuidosucam.blogspot.com/2008/09/tcnicas-de-escalabilidade-sistemas.html#:~:text=Escalabilidade%20é%20uma%20característica%20em,para%20o%20crescimento%20do%20mesmo.
 
 
