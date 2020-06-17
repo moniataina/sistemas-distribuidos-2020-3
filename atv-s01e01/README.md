@@ -5,7 +5,7 @@
 
 Em convenção, idealizar de forma mais fácil um sistema distribuído é imaginar um conjunto de computadores onde exista o fornecimento de algum serviço.
 
-Tanenbaum explorou a idéia de que o usuário não tem ciência que há diversos computadores, nem onde estes estão localizados, enfatizando assim a ideia de um sistema colaborativo com apresentação unica.
+Tanenbaum explorou a idéia de que por mais que o SD seja uma coleção de computadores, o usuário "visualiza" apenas um sistema, enfatizando assim a ideia de um sistema colaborativo com apresentação unica.
 
 **Mas onde começou essa ideia?**
 
