@@ -77,6 +77,11 @@ Consiste em dividir componentes espalhando estes pelo sistema. Um exemplo é o d
 **ocultação de latência**
 esse método é geralmente o meio utilizado para lidar com falhas de escabilidade causadas por distância ( geográfica). A ideia é apenas evitar por respostas a requisições( utilizando a comunicação assícrona)
 
+**REFERÊNCIAS**
+
+MARTINS, Simone de lima. **Sistemas Distribuídos:** Caracteristicas. visto em http://www.ic.uff.br/~simone/sd/contaulas/aula1.pdf.
+SIMÕES, Marcos A. **Introdução às Redes de Computadores**. visto em http://masimoes.pro.br/site/redes/01_Intro/.
+
 
 
 
