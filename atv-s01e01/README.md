@@ -69,6 +69,14 @@ devem tambem ser avaliados.
 A replicação é uma técnica para melhorar serviços e desempenhos em SD, podendo ser realizada via software,( por exemplo quando num banco de dados, tabelas, etc), ou replicar via hardware(volume de disco, por exemplo).
 A tecnica de replicação pode por exemplo ajudar muito nos problemas de latência( SDs de grande distancia). entretanto essa tecnica tambem causa um outro problema que é o de consistencia de dados.
 
+**Distribuição**
+Consiste em dividir componentes espalhando estes pelo sistema. Um exemplo é o da uma divisão do espaço de nomes DNS,  podendo assim vários clientes realizar a comunicação (paralela).
+
+**ocultação de latência**
+esse método é geralmente o meio utilizado para lidar com falhas de escabilidade causadas por distância ( geográfica). A ideia é apenas evitar por respostas a requisições( utilizando a comunicação assícrona)
+
+
+
 
 
 
