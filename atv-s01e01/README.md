@@ -30,10 +30,6 @@ dias atuais:
 - Internet/ nuvem
 - Serviços Distribuídos em grande escala.
 
-**Proposta da utilização dos sistemas distribuidos:**
- Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
-Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
-
 **Vantagens de SD**
 - economia: mais recursos atraves do compartilhamento
 - contribuição com informações/dados : acesso mais intuitivo a dados e outros serviços
@@ -44,8 +40,11 @@ Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capaci
 - Segurança: em sistemas distribuídos o acesso a informações reservadas pode ser prejudicial a segurança
 - saturação da rede de comunicação.
 
-#### metas em SD
-  - *Interoperabilidade*
+**Motivações da utilização dos sistemas distribuidos:**
+ Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
+Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
+
+**Interoperabilidade**
 Em tecnologia entende-se por interoperabilidade a capacidade de um sistema de se comunicar de forma transparente com outro sistema (semelhante ou não). Reforça-se que para um sistema ser interoperavel este deve trabalhar com modelos (padrões) abertos.
 até que ponto 2 implementações de fornecedores diferentes podem coexistir e trabalhar em conjunto com base na mera confiança mútua"
 
