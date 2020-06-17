@@ -1,4 +1,4 @@
-*#Sistemas Distribuídos*
+# *Sistemas Distribuídos*
 
 conceitos iniciais
 
