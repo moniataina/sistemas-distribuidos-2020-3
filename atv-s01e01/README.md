@@ -47,19 +47,28 @@ saturação da rede de comunicação.
 
 metas em SD
 Interoperabilidade
-
 Em tecnologia entende-se por interoperabilidade a capacidade de um sistema de se comunicar de forma transparente com outro sistema (semelhante ou não). Reforça-se que para um sistema ser interoperavel este deve trabalhar com modelos (padrões) abertos.
 até que ponto 2 implementações de fornecedores diferentes podem coexistir e trabalhar em conjunto com base na mera confiança mútua"
 
 Portabilidade
-A portabilidade também é uma característica da abertura, sendo uma maneira de garantir que um sistema funcione em um outro sistema sem a mesma interfaces e equipamentos do sistema de origem. sendo que para essa característica é importante a padronização dos serviços.
+A portabilidade também é uma característica importante, sendo uma maneira de garantir que um sistema funcione em um outro sistema sem a mesma interfaces e equipamentos do sistema de origem. Para essa característica ser aplicada é importante a padronização dos serviços.
 
 Extensibilidade
-pode ser necessário em alguma hora a adição de recursos ( seja Extensões de hardware ou de software) em um sistema distribuido sem que essa adição prejudique o funcionamento daqueles outros serviços que ja estavam em funcionamento antes.
+pode ser necessário em alguma hora a adição de recursos ( seja Extensões de hardware ou de software) em um sistema distribuido sem que essa adição prejudique o funcionamento daqueles outros serviços que ja estavam em funcionamento antes.A essa necessidade chamamos de extensibilidade
 
 
 Escalabidade em SD
 Em determinadas situações é desejavel o aumento da capacidade de desemepenho. Aumento de usuários e recursos, distância de usuários(geografia) ou a necessidade de administração facilitada( mesmo em varias organizações diferentes) , são os motivos pelos quais deve-se analisar a medição de capacidade de desempenho em SD.
+
+os grandes problemas em escalabilidade
+crescimento de serviços e usuarios: servidores normalmente se transformam em "gargalo" à medida que o número de usuários e aplicações crescem.
+problemas geográficos: Comunicação em redes de longa distância não é confiável e quase sempre é ponto a ponto. 
+problemas administrativos:problemas de políticas conflitantes em relação a utilização/pagamento de recursos,expansão de dominio 
+devem tambem ser avaliados.
+
+como solucionar esses problemas?
+
+replicação:
 
 
 
