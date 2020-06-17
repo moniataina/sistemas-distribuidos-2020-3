@@ -54,10 +54,12 @@ A portabilidade também é uma característica importante, sendo uma maneira de 
 **Extensibilidade**
 pode ser necessário em alguma hora a adição de recursos ( seja Extensões de hardware ou de software) em um sistema distribuido sem que essa adição prejudique o funcionamento daqueles outros serviços que ja estavam em funcionamento antes. A essa necessidade chamamos de extensibilidade
 
-**Escalabilidade em SD**
-Em determinadas situações é desejavel o aumento da capacidade de desemepenho. Aumento de usuários e recursos, distância de usuários(geografia) ou a necessidade de administração facilitada( mesmo em varias organizações diferentes) , são os motivos pelos quais deve-se analisar a medição de capacidade de desempenho em SD.
 
-### os grandes problemas em escalabilidade
+
+### Escalabilidade em SD: necessidade atual e os problemas vigentes
+
+Em determinadas situações é desejavel o aumento da capacidade de desempenho. Aumento de usuários e recursos, distância de usuários(geografia) ou a necessidade de administração facilitada( mesmo em varias organizações diferentes), são os motivos pelos quais deve-se analisar a medição de capacidade de desempenho em SD.
+
 - crescimento de serviços e usuarios: servidores normalmente se transformam em "gargalo" à medida que o número de usuários e aplicações crescem.
 - problemas geográficos: Comunicação em redes de longa distância não é confiável e quase sempre é ponto a ponto. 
 - problemas administrativos:problemas de políticas conflitantes em relação a utilização/pagamento de recursos,expansão de dominio 
