@@ -5,7 +5,7 @@
 
 Em convenção, idealizar de forma mais fácil um sistema distribuído é imaginar um conjunto de computadores onde exista o fornecimento de algum serviço.
 
-Tanenbaum explorou a idéia de que por mais que o SD seja uma coleção de computadores, o usuário "visualiza" apenas um sistema, enfatizando assim a ideia de um sistema colaborativo com apresentação unica.
+*Tanenbaum* explorou a idéia de que por mais que o SD seja uma coleção de computadores, o usuário "visualiza" apenas um sistema, enfatizando assim a ideia de um sistema colaborativo com apresentação unica.
 
 **Mas onde começou essa ideia?**
 
@@ -30,20 +30,19 @@ dias atuais:
 - Internet/ nuvem
 - Serviços Distribuídos em grande escala.
 
-Proposta da utilização dos sistemas distribuidos:
- Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva economica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
+**Proposta da utilização dos sistemas distribuidos:**
+ Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
 Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
 
+**Vantagens de SD**
+- economia: mais recursos atraves do compartilhamento
+- contribuição com informações/dados : acesso mais intuitivo a dados e outros serviços
+- Flexibilização: Na distribuição de tarefas de acordo com as aplicações utilizadas.
+- processamento / velocidade / acesso: Crescimento da capacidade de processamento.
 
-Vantagens 
-economica: mais recursos atraves do compartilhamento
-contribuição com informações/dados : acesso mais intuitivo a dados e outros serviços
-Flexibilização: Na distribuição de tarefas de acordo com as aplicações utilizadas.
-processamento / velocidade / acesso: Crescimento da capacidade de processamento.
-
-Desvantagens
-Segurança: em sistemas distribuídos o acesso a informações reservadas pode ser prejudicial a segurança
-saturação da rede de comunicação.
+**Desvantagens**
+- Segurança: em sistemas distribuídos o acesso a informações reservadas pode ser prejudicial a segurança
+- saturação da rede de comunicação.
 
 metas em SD
 Interoperabilidade
