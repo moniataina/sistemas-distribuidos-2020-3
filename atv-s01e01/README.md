@@ -16,19 +16,19 @@ O advento tanto da ARPANET e mais a frente da internet induziram a grande escala
 
 **evolução histórica:**
 1970s
-- Estações de trabalho mono-usuário:
--SUN, XEROX e Apple
--Primeiros sistemas distribuídos experimentais
+- Estações de trabalho mono-usuário.
+- SUN, XEROX e Apple.
+- Primeiros sistemas distribuídos experimentais.
 
-1980s
- Microprocessadores com alto poder computacional
- O protocolo TCP/IP padronizado
- Sistemas Distribuídos:Sun NFS, March, Sprite, etc.
+1980
+- Microprocessadores com alto poder computacional.
+- protocolo TCP/IP padronizado.
+- Sistemas Distribuídos:Sun NFS, March, Sprite, etc.
 
 dias atuais:
-Disponibilidade e facilidade de comunicação
- Internet/ nuvem
- Serviços Distribuídos em grande escala.
+- Disponibilidade e facilidade de comunicação
+- Internet/ nuvem
+- Serviços Distribuídos em grande escala.
 
 Proposta da utilização dos sistemas distribuidos:
  Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva economica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
