@@ -9,8 +9,9 @@ onde estes estão localizados, enfatizando assim a ideia de um sistema colaborat
 
 mas onde começou essa ideia?
 
-Nos anos 60, era dos mainframes, o modelo utilizado a par de processamento de informações era o modelo de sistema centralizado. Estes  grandes computadores centralizam a manipulação, armazenamento e tratamento dos dados atravez dos terminais "burros".
+Nos anos 60 o modelo utilizado a par de processamento de informações era o modelo de sistema centralizado. Estes  grandes computadores centralizam a manipulação, armazenamento e tratamento dos dados atravez dos terminais "burros".
 Os SC são sistemas que possuem pouco poder de tempo compartilhado, necessitando na época de  robustos mainframes para funcionar com qualidade. 
+logo, a necessidade de computadores serem interligados entre si com o objetivo de compartilhar recursos era crescente.
 
  
 
