@@ -40,7 +40,7 @@ dias atuais:
 - Segurança: em sistemas distribuídos o acesso a informações reservadas pode ser prejudicial a segurança
 - saturação da rede de comunicação.
 
-#### Motivações da utilização dos sistemas distribuidos
+### Motivações da utilização dos sistemas distribuidos
  Umas das grandes motivações que abrangiam a utilização dos SD's eram em relação ao compartilhamento de dados e informações, além da pespectiva econômica, visto que a ideia de compartlhamento tambem abrangeria serviços importantes sem a necessidade de adquirir muitos equipamentos( impressoras por exemplo)
 Alem da atrativa fácilidade de acesso aos recursos, a Transparência e a Capacidade de ser expandido (Escalabilidade) eram recursos desejaveis em um SD.
 
@@ -57,7 +57,7 @@ pode ser necessário em alguma hora a adição de recursos ( seja Extensões de 
 **Escalabilidade em SD**
 Em determinadas situações é desejavel o aumento da capacidade de desemepenho. Aumento de usuários e recursos, distância de usuários(geografia) ou a necessidade de administração facilitada( mesmo em varias organizações diferentes) , são os motivos pelos quais deve-se analisar a medição de capacidade de desempenho em SD.
 
-#### os grandes problemas em escalabilidade
+### os grandes problemas em escalabilidade
 - crescimento de serviços e usuarios: servidores normalmente se transformam em "gargalo" à medida que o número de usuários e aplicações crescem.
 - problemas geográficos: Comunicação em redes de longa distância não é confiável e quase sempre é ponto a ponto. 
 - problemas administrativos:problemas de políticas conflitantes em relação a utilização/pagamento de recursos,expansão de dominio 
