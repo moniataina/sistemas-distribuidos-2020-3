@@ -1,7 +1,7 @@
 ## Classificação de hardware com várias CPU's
 > Monia Tainá Tavares - Ciência da Computação/ UFMA
 
-A Necessidade de computadores mais rápidos em processamento tornava-se algo cada vez mais recorrente desde o primórdio das arquiteturas paralelas, chegando ate os campo de SD's. Conforme visto, um SD caracteriza-se por diversas CPU's conectadas, diferenciando na forma de organização desse mesmo hardware. 
+A necessidade de computadores mais rápidos em processamento tornava-se algo cada vez mais recorrente desde o primórdio das arquiteturas paralelas, chegando ate os campo de SD's. Conforme visto, um SD caracteriza-se por diversas CPU's conectadas, diferenciando na forma de organização desse mesmo hardware. 
 Ao analisar computadores em um SD, percebe-se diversos padrões utilizados (seja memória compartilhada ou em estrutura de barramento). esses tipos de estruturas são consideradas conforme o número e fluxo de dados utilizados.
 
 #### Fluxo de dados / MIMD - Multiple Instruction Multiple Data
@@ -16,6 +16,10 @@ Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
   
  - **multicomputadores**: A ideia principal de um sistema de multicomputadores é a de CPUs fortemente acopladas que não compartilham memória(clusters). No cenário de multicomputadores existem:
     - multicomputadores homogêneos: conjunto de dispositivos análogos com o intuito de se realizar o processamento paralelo. Construções do tipo *MPPs* (*Massively Parallel Processors*), onde consiste de processamento coordenado de um programa por vários processadores que funcionam em diferentes partes do programa, com cada processador usando seu próprio sistema operacional e memória, e *COW*( *Cluster of Workstations*), estações de trabalhos interligadas, por muitas vezes com as chamadas estações de trabalho sem "cabeça" (headless Workstation).
+    - multicomputadores heterogêneos: são os chamados sistemas de computadores e dispositivos não semelhantes( sistemas operacionais ou arquiteturas).
+    
+#### Taxonomia de flynn
+
 
    
  
