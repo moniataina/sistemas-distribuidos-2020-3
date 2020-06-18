@@ -11,8 +11,7 @@ Fluxo de dados/ instruções em grande escala demandam a utilização de varios 
 Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
 
 - multiprocessadores: são as chamadas máquinas com memória compartilhada. podem ser baseados em:
-  - barramentos: Sistema com vários processadores interconectados por um barramento e uma memória única( utilizando caches, que reduzem o trafego de barramento e tambem o tempo de acesso a dados).
- Conforme **BERTINI¹**, Processadores devem ter acesso exclusivo à memória no caso de escrita e devem ter em suas caches a cópia mais recente de um dado. (pode-se analisar a este contexto a questão de problemas de incosistencia gerados pela cache).
+  - barramentos: Sistema com vários processadores interconectados por um barramento e uma memória única( utilizando caches, que reduzem o trafego de barramento e tambem o tempo de acesso a dados). Conforme **BERTINI¹**, processadores devem ter acesso exclusivo à memória no caso de escrita e devem ter em suas caches a cópia mais recente de um dado. (pode-se analisar a este contexto a questão de problemas de incosistencia gerados pela cache).
   
  
  
