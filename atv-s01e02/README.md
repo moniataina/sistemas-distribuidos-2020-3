@@ -14,6 +14,7 @@ Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
  - barramentos: Sistema com vários processadores interconectados por um barramento e uma memória única( utilizando caches, que reduzem o trafego de barramento e tambem o tempo de acesso a dados).
  
  
+ 
  ###### Referências
  
  BERTINI, Luciano. **Multiprocessadores de Clusters**. Disponível em : http://www.professores.uff.br/lbertini/wp-content/uploads/sites/108/2017/08/Cap-6-Multiplrocessadores.pdf.
