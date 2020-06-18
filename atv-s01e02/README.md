@@ -15,9 +15,9 @@ Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
   - chaveamento: a arquitetura por chaveamento consiste em uma estrutura mais robusta onde não existe mais um único barramento   (dispositivos de malha/ponto cruzado), utilizando a "interseção" de pontos para interligar processadores e memórias. Nesse tipo de arquitetura é proposta a comunicação simultânea entre diversas unidades( evitando o "gargalo", consequência do barramento comum). As estruturas *Cross-bar* e *ômega* são exemplo de chaveamentos, onde a primeira necessita de mais computadores nas interseções (estrutura matricial) e a segunda utiliza menos dispositivos para interligação de malha, reduzindo por exemplo o custo de implantação.
   
  - **multicomputadores**: A ideia principal de um sistema de multicomputadores é a de CPUs fortemente acopladas que não compartilham memória(clusters). No cenário de multicomputadores existem:
-    - multicomputadores homogêneos: conjunto de dispositivos análogos com o intuito de se realizar o processamento paralelo.( MPPS - *Massively Parallel Processors*) e COW( *Cluster of Workstations*)
-  
-  
+    - multicomputadores homogêneos: conjunto de dispositivos análogos com o intuito de se realizar o processamento paralelo. Construções do tipo *MPPs* (*Massively Parallel Processors*), onde consiste de processamento coordenado de um programa por vários processadores que funcionam em diferentes partes do programa, com cada processador usando seu próprio sistema operacional e memória, e *COW*( *Cluster of Workstations*), estações de trabalhos interligadas, por muitas vezes com as chamadas estações de trabalho sem "cabeça" (headless Workstation).
+
+   
  
  
  
