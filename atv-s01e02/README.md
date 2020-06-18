@@ -22,7 +22,13 @@ Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
 Com a grande variedade de arquitetura de computadores, existem diversas classificações( taxonomias) propostas, com o objetivo de padronizar caracteristicas dos sistemas computacionais. A classificação de arquitetura mais aceita é a de Michael J. Flynn.Essa classificação distingue arquiteturas de computadores de acordo a quantidade de instruções e dados processados em um determinado momento utilizando a classificação segundo duas dimensões independentes (fluxo de dados/ fluxo de instruções).
 Conforme Flynn, as arquiteturas possuem 4 classes de classificações:
 
-  - 
+  - SISD (*Single Intruction Single Data*): Computadores com esta classificação são aqueles que executam uma instrução de um programa por vez ( processamento unico/ baixo poder de cálculo) em unico fluxo de dados.
+  - SIMD (*Single Instruction Multiple Data*): Esse tipo de computador tambem realiza a execução de uma unica instrução, entretanto possui multiplo fluxo de dados.
+  - MISD (*Multiple Instruction Single Data*): Multiplas unidades de processamento( fluxo multiplo de instruções) , onde cada uma opera de maneira independente via conjunto independentes de instruções, ou seja, um multiplo fluxo de instruções para unico fluxo de dados.
+  - MIMD (*Multiple Instruction Multiple Data*): Neste caso, multiplas instruções para multiplo fluxo de dados, onde cada processador pode pode trabalhar com diferentes fluxos de dados, podendo ser sícronos e assícronos.
+
+
+
 
 
 
