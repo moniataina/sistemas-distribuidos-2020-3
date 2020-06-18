@@ -25,21 +25,22 @@ Conforme Flynn, as arquiteturas possuem 4 classes de classificações:
   - SISD (*Single Intruction Single Data*): Computadores com esta classificação são aqueles que executam uma instrução de um programa por vez ( processamento unico/ baixo poder de cálculo) em unico fluxo de dados.
   - SIMD (*Single Instruction Multiple Data*): Esse tipo de computador tambem realiza a execução de uma unica instrução, entretanto possui multiplo fluxo de dados.
   - MISD (*Multiple Instruction Single Data*): Multiplas unidades de processamento( fluxo multiplo de instruções) , onde cada uma opera de maneira independente via conjunto independentes de instruções, ou seja, um multiplo fluxo de instruções para unico fluxo de dados.
-  - MIMD (*Multiple Instruction Multiple Data*): Neste caso, multiplas instruções para multiplo fluxo de dados, onde cada processador pode pode trabalhar com diferentes fluxos de dados, podendo ser sícronos e assícronos.
+  - MIMD (*Multiple Instruction Multiple Data*): Neste caso, multiplas instruções para multiplo fluxo de dados, onde cada processador pode pode trabalhar com diferentes fluxos de dados, podendo ser sícronos e assícronos. Conforme visto, a classificação MIMD é a mais comum no processo paralelo.
 
 
 
-
-
-
-
-   
- 
- 
  
  ###### Referências
  
  ¹BERTINI, Luciano. **Multiprocessadores de Clusters**. Disponível em : http://www.professores.uff.br/lbertini/wp-content/uploads/sites/108/2017/08/Cap-6-Multiplrocessadores.pdf.
+ 
+ DANTAS, Mário. **Arquitetura de Computadores II**. Disponível em: http://www.inf.ufsc.br/~mario.dantas/tac.pdf.
+ 
+ GATTO, Elaine Cecília. **Arquiteturas de Computadores Paralelos**. Disponível em: https://pt.slideshare.net/elainececiliagatto/arquiteturas-de-computadores-paralelos
+ 
+ MACHADO, Francis Berenger.; MAIA, Luís Paulo. **Arquitetura de sistemas operacionais.** Disponível em: https://slideplayer.com.br/slide/290425/.
+ 
+ ROMÃO, Oberlan. **Arquiteturas paralelas – Parte 1**. Disponível em: https://www.ime.usp.br/~oberlan/DCE11720/Aulas/Aula03.pdf.
  
  OLIVEIRA, Fábio Borges de. **Sistemas com múltiplos processadores**. Disponivel em: https://www.lncc.br/~borges/ist/SO2/cap08.pdf.
  
