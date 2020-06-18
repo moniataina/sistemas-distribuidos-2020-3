@@ -18,7 +18,11 @@ Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
     - multicomputadores homogêneos: conjunto de dispositivos análogos com o intuito de se realizar o processamento paralelo. Construções do tipo *MPPs* (*Massively Parallel Processors*), onde consiste de processamento coordenado de um programa por vários processadores que funcionam em diferentes partes do programa, com cada processador usando seu próprio sistema operacional e memória, e *COW*( *Cluster of Workstations*), estações de trabalhos interligadas, por muitas vezes com as chamadas estações de trabalho sem "cabeça" (headless Workstation).
     - multicomputadores heterogêneos: são os chamados sistemas de computadores e dispositivos não semelhantes( sistemas operacionais ou arquiteturas).
     
-#### Taxonomia de flynn
+#### Taxonomia de Flynn
+Com a grande variedade de arquitetura de computadores, existem diversas classificações( taxonomias) propostas, com o objetivo de padronizar caracteristicas dos sistemas computacionais. A classificação de arquitetura mais aceita é a de Michael J. Flynn.Essa classificação distingue arquiteturas de computadores de acordo a quantidade de instruções e dados processados em um determinado momento utilizando a classificação segundo duas dimensões independentes (simples/ múltipla).
+
+
+
 
 
    
