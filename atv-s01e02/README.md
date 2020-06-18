@@ -8,3 +8,15 @@ Ao analisar computadores em um SD, percebe-se diversos padrões utilizados (seja
 
 Fluxo de dados/ instruções em grande escala demandam a utilização de varios processadores interconectados. Nesse contexto, o sistemas de classificação de Máquinas *MIMD (Multiple Instruction Multiple Data*) torna-se a arquitetura essencial. Estas arquiteturas são caracterizadas pela execução simultânea de múltiplos fluxos de instruções, possuindo construção a partir de diversos processadores realizando trabalho cooperativo (ou concorrente).
 
+Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
+
+- multiprocessadores: são as chamadas máquinas com memória compartilhada. podem ser baseados em:
+ - barramentos: Sistema com vários processadores interconectados por um barramento e uma memória única( utilizando caches, que reduzem o trafego de barramento e tambem o tempo de acesso a dados).
+ 
+ 
+ ###### Referências
+ 
+ BERTINI, Luciano. **Multiprocessadores de Clusters**. Disponível em : http://www.professores.uff.br/lbertini/wp-content/uploads/sites/108/2017/08/Cap-6-Multiplrocessadores.pdf.
+
+
+
