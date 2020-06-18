@@ -19,8 +19,10 @@ Nesse cenário surgem as seguintens subclassificações (conforme Tanenbaum):
     - multicomputadores heterogêneos: são os chamados sistemas de computadores e dispositivos não semelhantes( sistemas operacionais ou arquiteturas).
     
 #### Taxonomia de Flynn
-Com a grande variedade de arquitetura de computadores, existem diversas classificações( taxonomias) propostas, com o objetivo de padronizar caracteristicas dos sistemas computacionais. A classificação de arquitetura mais aceita é a de Michael J. Flynn.Essa classificação distingue arquiteturas de computadores de acordo a quantidade de instruções e dados processados em um determinado momento utilizando a classificação segundo duas dimensões independentes (simples/ múltipla).
+Com a grande variedade de arquitetura de computadores, existem diversas classificações( taxonomias) propostas, com o objetivo de padronizar caracteristicas dos sistemas computacionais. A classificação de arquitetura mais aceita é a de Michael J. Flynn.Essa classificação distingue arquiteturas de computadores de acordo a quantidade de instruções e dados processados em um determinado momento utilizando a classificação segundo duas dimensões independentes (fluxo de dados/ fluxo de instruções).
+Conforme Flynn, as arquiteturas possuem 4 classes de classificações:
 
+  - 
 
 
 
