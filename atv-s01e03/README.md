@@ -15,3 +15,18 @@
  **Sistemas pervasivos**: com  a  introdução  de dispositivos de computação móveis e embutidos, esses  sistemas  denominados 
 sistemas  distribuídos  pervasivos acabaram aparecendo no cenario atual. são caracetrizados por sistemas onde seus equipamentos costumam são representados por seu pequeno tamanho, mobilidade, pela alimentação  por  bateria, e  por  terem  somente uma conexão sem fio.
 Uma caracteristica interessante a se analisar no sistema distribuido pervasivo é o seu cenário: dispositivos na melhor das hipóteses podem ser configurados por seus proprietários, entretanto é desejavel que o ambiente seja descoberto automaticamente, onde se "insere".(Dispositivo deve ser ciente de que seu ambiente pode mudar continuamente). 
+
+### Middleware
+
+ - O middleware é a camada (software) que se encontra entre o sistema operacional e os aplicativos nele que são executados.O middleware é praticamente a "conexão" que liga aplicativos para que os dados/ bancos de dados possam ser conduzidos.A utilização do middleware "permite que os usuários executem solicitações como enviar formulários em um navegador da Web ou permitir que o servidor Web apresente páginas dinâmicas da web com base no perfil de um usuário."¹
+ 
+ 
+ 
+ 
+ ¹**O que é middleware?** Disponível em: https://azure.microsoft.com/pt-br/overview/what-is-middleware/
+ 
+ 
+ 
+ 
+ 
+ 
