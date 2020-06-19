@@ -25,6 +25,12 @@ Uma caracteristica interessante a se analisar no sistema distribuido pervasivo �
    - comunicação: chamada de procedimento remoto, invocação de objeto
    - nomeação: aceita referenciar objetos pelo nome
    - segurança: oferece fucionalidades referentes a segurança
+   
+  ### exemplos gerais de middleware
+- Servidores de Aplicação Java EE
+- Business intelligence
+- Monitoramento de IT
+
 
  
  ¹**O que é middleware?** Disponível em: https://azure.microsoft.com/pt-br/overview/what-is-middleware/
