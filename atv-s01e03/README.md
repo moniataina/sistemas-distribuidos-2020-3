@@ -9,4 +9,9 @@
  - atomicidade: (para o mundo externo) transação ocorre de forma indivisível. 
  - Consistência: transação não "fere" invariantes do sistema. 
  - Isolamento: transações concorrentes não interferem uma na outra. 
- - Durabilidade: uao se confirmar a transação(commit), as mudanças são permanentes.
+ - Durabilidade: ao se confirmar a transação(commit), as mudanças são permanentes.
+ 
+ 
+ **Sistemas pervasivos**: com  a  introdução  de dispositivos de computação móveis e embutidos, esses  sistemas  denominados 
+sistemas  distribuídos  pervasivos acabaram aparecendo no cenario atual. são caracetrizados por sistemas onde seus equipamentos costumam são representados por seu pequeno tamanho, mobilidade, pela alimentação  por  bateria, e  por  terem  somente uma conexão sem fio.
+Uma caracteristica interessante a se analisar no sistema distribuido pervasivo é o seu cenário: dispositivos na melhor das hipóteses podem ser configurados por seus proprietários, entretanto é desejavel que o ambiente seja descoberto automaticamente, onde se "insere".(Dispositivo deve ser ciente de que seu ambiente pode mudar continuamente). 
