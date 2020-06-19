@@ -20,8 +20,12 @@ Uma caracteristica interessante a se analisar no sistema distribuido pervasivo �
 
  - O middleware é a camada (software) que se encontra entre o sistema operacional e os aplicativos nele que são executados.O middleware é praticamente a "conexão" que liga aplicativos para que os dados/ bancos de dados possam ser conduzidos.A utilização do middleware "permite que os usuários executem solicitações como enviar formulários em um navegador da Web ou permitir que o servidor Web apresente páginas dinâmicas da web com base no perfil de um usuário."¹
  
- 
- 
+  ##### serviços oferecidos 
+   - transações: faz gerenciamento de transações
+   - comunicação: chamada de procedimento remoto, invocação de objeto
+   - nomeação: aceita referenciar objetos pelo nome
+   - segurança: oferece fucionalidades referentes a segurança
+
  
  ¹**O que é middleware?** Disponível em: https://azure.microsoft.com/pt-br/overview/what-is-middleware/
  
