@@ -32,10 +32,20 @@ Uma caracteristica interessante a se analisar no sistema distribuido pervasivo �
 - Monitoramento de IT
 
 
+
+
  
  ¹**O que é middleware?** Disponível em: https://azure.microsoft.com/pt-br/overview/what-is-middleware/
  
- 
+ https://slideplayer.com.br/slide/3438056/
+
+http://www.facom.ufu.br/~faina/BCC_Crs/GSI028-2014-1S/DL/DS-Ch01.pdf
+
+https://silo.tips/download/sistemas-distribuidos-19
+
+https://azure.microsoft.com/pt-br/overview/what-is-middleware/
+
+https://www.cin.ufpe.br/~cagf/sdgrad/aulas/visaogeral-expandida.pdf
  
  
  
