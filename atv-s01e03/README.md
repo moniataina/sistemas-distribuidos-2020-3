@@ -36,6 +36,7 @@ Uma caracteristica interessante a se analisar no sistema distribuido pervasivo �
   - linguagem : Java
 
  
+ ##### REFERÊNCIAS
  ¹**O que é middleware?** Disponível em: https://azure.microsoft.com/pt-br/overview/what-is-middleware/
  
  **Tipos de sistemas distribuídos.** Disponível em: https://slideplayer.com.br/slide/3438056/
