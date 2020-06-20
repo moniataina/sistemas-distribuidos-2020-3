@@ -31,21 +31,20 @@ Uma caracteristica interessante a se analisar no sistema distribuido pervasivo �
 - Business intelligence
 - Monitoramento de IT
 
-
-
+ ### exemplo de serviço com middleware
+  - IBM websphere: família de softwares da IBM( WebSphere Application Server, WebSphere Portal Server, etc), para criação e execução de aplicações baseadas no padrão Java J2EE, fornecendo também infra-estrutura para integração de aplicações corporativas.
+  - linguagem : Java
 
  
  ¹**O que é middleware?** Disponível em: https://azure.microsoft.com/pt-br/overview/what-is-middleware/
  
- https://slideplayer.com.br/slide/3438056/
+ **Tipos de sistemas distribuídos.** Disponível em: https://slideplayer.com.br/slide/3438056/
 
-http://www.facom.ufu.br/~faina/BCC_Crs/GSI028-2014-1S/DL/DS-Ch01.pdf
+FAINA, Luís fernando.**Sistemas de Computação Distribuídos.** Disponível em: http://www.facom.ufu.br/~faina/BCC_Crs/GSI028-2014-1S/DL/DS-Ch01.pdf
 
-https://silo.tips/download/sistemas-distribuidos-19
+REIS, Gustavo.**Introdução aos Sistemas Distribuídos.** Disponível em: https://silo.tips/download/sistemas-distribuidos-19
 
-https://azure.microsoft.com/pt-br/overview/what-is-middleware/
-
-https://www.cin.ufpe.br/~cagf/sdgrad/aulas/visaogeral-expandida.pdf
+FERRAZ, Carlos A. G.**Sistemas distribuídos**-visão geral extendida. Disponível em: https://www.cin.ufpe.br/~cagf/sdgrad/aulas/visaogeral-expandida.pdf
  
  
  
