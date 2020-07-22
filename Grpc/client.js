@@ -1,5 +1,7 @@
+
 // definição do caminho do arquivo proto
-const PROTO_PATH = "./lanchonete.proto";
+//PRIMITIVAS
+const PROTO_PATH = "./sorveteria.proto";
 
 const grpc = require('grpc');
 
@@ -14,3 +16,5 @@ const packageDefinition = protoLoader.loadSync(
      defaults: true,
      oneofs: true
     });
+//CODIGO DE SERVIÇO - CARREGAMENTO
+const protoDescriptor = grpc.loadPackageDefinition(packageDefinition).sabor;
