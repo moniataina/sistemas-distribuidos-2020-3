@@ -3,13 +3,21 @@ syntax = "proto3";
 
 package sabor;
 
-
-
-message Saborsorv {
-  int32 id = 1;
-  string sabor = 2;
+message Sabor {
+  int32 cod = 1;
+  string nomesab = 2;
   float preco = 3;
 }
+
+message Vazia { }
+
+
+message ListaDesabores {
+  repeated Sabor sabores = 1;
+}
+
+
+
 
 message PrecoTotal {
   float valor = 1;
