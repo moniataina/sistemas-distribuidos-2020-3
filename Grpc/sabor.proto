@@ -3,32 +3,29 @@ syntax = "proto3";
 
 package sabor;
 
-message Sabor {
+message Sorvete {
   int32 cod = 1;
   string nomesab = 2;
-  float preco = 3;
+  string cobertura = 3
+  float preco = 4;
 }
 
 message Vazia { }
 
 
+
 message ListaDesabores {
-  repeated Sabor sabores = 1;
+  repeated Sorvete sorvetes = 1;
 }
 
-
-
-
-message PrecoTotal {
+message Conta {
   float valor = 1;
 }
 
-message ListaDeLanches {
-  repeated Lanche lanches = 1;
-}
 
-service ServicoLanche {
-  rpc RegistrarPedido (Lanche) returns (Vazia);
-  rpc ListarLanches (Vazia) returns (ListaDeLanches);
-  rpc FinalizaPedido (Vazia) returns (PrecoTotal);
+service Servicosorveteria{
+    rpc ListarSabores (Vazia) returns (ListaDeSabores);
+    rpc RegistrarPedido (Sorvete) returns (Vazia);
+    rpc pedidofinalizado (vazia) returns(conta);
+ 
 }
