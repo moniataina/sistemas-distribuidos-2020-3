@@ -31,3 +31,24 @@ client.RegistrarPedido({cod: "12", nomesab: "ameixa", cobertura: "chocolate", pr
         console.log("Ocorreu um erro invocando o procedimento RegistrarPedido");
         return;
     }
+console.log("o produto foi registrado");
+	
+	//relação com a lista em servidor
+	
+	client.ListarSabores({}, function(err, response) {
+            const lista = response.lstsorvete;
+
+            console.log(lista);
+        });
+
+    });
+
+client.ListarSabores({}, function(err, response) {
+    if (err != null) {
+        console.log("erro ao chamar ListarSabores");
+        return;
+    }
+
+    console.log(" >>>>> Lista de carros: " + JSON.stringify(response.carros) );
+});
+	
