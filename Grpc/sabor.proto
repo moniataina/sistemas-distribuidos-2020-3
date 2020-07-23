@@ -26,6 +26,7 @@ message Conta {
 service Servicosorveteria{
     rpc ListarSabores (Vazia) returns (ListaDeSabores);
     rpc RegistrarPedido (Sorvete) returns (Vazia);
-    rpc pedidofinalizado (vazia) returns(conta);
- 
+    rpc pedidofinalizado (vazia) returns(Conta);
+    //trabalhando aqui<!>
+    rpc apagarpedido(Sorvete) returns (vazia);
 }
