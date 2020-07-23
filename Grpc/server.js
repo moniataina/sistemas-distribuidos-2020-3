@@ -38,6 +38,7 @@ function RegistrarPedido(call, callback) {
 		preco: call.request.preco,
 	};
 
+	
 	// adiciona no BD
     listasorvete.push(sabor);
 //retorno de resultado ao client
