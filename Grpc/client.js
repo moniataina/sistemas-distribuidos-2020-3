@@ -49,6 +49,6 @@ client.ListarSabores({}, function(err, response) {
         return;
     }
 
-    console.log(" >>>>> Lista de carros: " + JSON.stringify(response.carros) );
+    console.log("Sabores: " + JSON.stringify(response.lstsorvete) );
 });
 	
