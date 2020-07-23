@@ -44,7 +44,7 @@ function RegistrarPedido(call, callback) {
 	callback(null, {});
 };
 
-//remover item
+//remover item específico
 function apagarpedido(call, callback) {
     const sabor = call.request.sabor;
 	const Sorv = listasorvete.findIndex(sorveteopcao => sorvetopcao.sabor ===sabor);
@@ -59,6 +59,10 @@ function apagarpedido(call, callback) {
 }
 
 // apagar todo o carrinho
-
-
-		
+function Deletarcarrinho(call, callback) {
+	const sabor = call.request.sabor;
+	
+	listasorvete.length = 0;
+	console.log(listasorvete) 
+	callback(null)
+}
