@@ -21,3 +21,13 @@ const packageDefinition = protoLoader.loadSync(
 //CODIGO DE SERVIÇO - CARREGAMENTO
 const protoDescriptor = grpc.loadPackageDefinition(packageDefinition).sabor;
 
+const client = new protoDescriptor.ServicoSorveteria('127.0.0.1:50051',
+									grpc.credentials.createInsecure());
+
+//EDITANDO AQUI
+client.RegistrarPedido({cod: "12", nomesab: "ameixa", cobertura: "chocolate"}, function(err, response) {
+    // verifica se ocorreu algum erro na comunicação
+    if (err != null) {
+        console.log("Ocorreu um erro invocando o procedimento RegistrarCarro");
+        return;
+    }
