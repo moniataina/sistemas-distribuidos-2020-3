@@ -43,3 +43,22 @@ function RegistrarPedido(call, callback) {
 //retorno de resultado ao client
 	callback(null, {});
 };
+
+//remover item
+function apagarpedido(call, callback) {
+    const sabor = call.request.sabor;
+	const Sorv = listasorvete.findIndex(sorveteopcao => sorvetopcao.sabor ===sabor);
+	if(!Sorv)
+	{
+		callback(null, "Erro ao apagar item, produto inexistente");
+	}else
+	{
+		listasorvete.splice(Sorv, 1);
+        callback(null)
+    }
+}
+
+// apagar todo o carrinho
+
+
+		
