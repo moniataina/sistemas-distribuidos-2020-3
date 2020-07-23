@@ -12,8 +12,6 @@ message Sorvete {
 
 message Vazia { }
 
-
-
 message ListaDesabores {
   repeated Sorvete sorvetes = 1;
 }
