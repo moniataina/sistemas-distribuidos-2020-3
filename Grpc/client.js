@@ -25,9 +25,9 @@ const client = new protoDescriptor.ServicoSorveteria('127.0.0.1:50051',
 									grpc.credentials.createInsecure());
 
 //EDITANDO AQUI
-client.RegistrarPedido({cod: "12", nomesab: "ameixa", cobertura: "chocolate"}, function(err, response) {
-    // verifica se ocorreu algum erro na comunicação
+client.RegistrarPedido({cod: "12", nomesab: "ameixa", cobertura: "chocolate", preco: "2.50"}, function(err, response) {
+    // verifica erro
     if (err != null) {
-        console.log("Ocorreu um erro invocando o procedimento RegistrarCarro");
+        console.log("Ocorreu um erro invocando o procedimento RegistrarPedido");
         return;
     }
