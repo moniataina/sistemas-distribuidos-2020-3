@@ -30,7 +30,7 @@ function listarSabores(call, callback) {
 };
 
 //EDITANDO AQUI
-function RegistrarPedido(call, callback) {
+function registrarpedido(call, callback) {
 	const sabor = {
 		cod: call.request.cod,
 		nomesab: call.request.nomesab,
@@ -60,10 +60,31 @@ function apagarpedido(call, callback) {
 }
 
 // apagar todo o carrinho
-function Deletarcarrinho(call, callback) {
+function deletarcarrinho(call, callback) {
 	const sabor = call.request.sabor;
 	
 	listasorvete.length = 0;
 	console.log(listasorvete) 
 	callback(null)
 }
+
+//definições chamadas do servidor
+
+const server = new grpc.Server();
+
+server.addService(protoDescriptor.ServicoSorveteria.service,
+    {
+        ListarSabores : listarsabores,
+        RegistrarPedido: registrarpedido,
+	pedidofinalizado: pedidofinalizado,
+	Deletarcarrinho: deletarcarrinho,
+	Apagarpedido: apagarpedido, 
+       
+    });
+
+
+server.bind('0.0.0.0:50051', grpc.ServerCredentials.createInsecure());
+
+
+server.start();
+
