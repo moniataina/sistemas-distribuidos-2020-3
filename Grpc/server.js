@@ -19,3 +19,12 @@ const packageDefinition = protoLoader.loadSync(
 
 //CODIGO DE SERVIÇO - CARREGAMENTO
 const protoDescriptor = grpc.loadPackageDefinition(packageDefinition).sabor;
+
+//chamada do banco de dados
+const listasorvete = [];
+
+function listarSabores(call, callback) {
+	callback(null, {
+		lstsorvete: listasorvete
+	});
+};
