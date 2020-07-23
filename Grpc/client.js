@@ -1,7 +1,9 @@
+//MONIA TAINA TAVARES - UFMA
+//editando aqui<!>
 
 // definição do caminho do arquivo proto
-//PRIMITIVAS
-const PROTO_PATH = "./sorveteria.proto";
+
+const PROTO_PATH = "./sabor.proto";
 
 const grpc = require('grpc');
 
@@ -18,3 +20,4 @@ const packageDefinition = protoLoader.loadSync(
     });
 //CODIGO DE SERVIÇO - CARREGAMENTO
 const protoDescriptor = grpc.loadPackageDefinition(packageDefinition).sabor;
+
