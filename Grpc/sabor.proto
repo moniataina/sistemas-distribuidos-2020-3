@@ -25,6 +25,6 @@ service Servicosorveteria{
     rpc RegistrarPedido (Sorvete) returns (Vazia);
     rpc pedidofinalizado (vazia) returns(Conta);
     rpc Deletarcarrinho (Sorvete) returns (vazia);
-    rpc apagarpedido(Sorvete) returns (vazia);
+    rpc apagarpedido (Sorvete) returns (vazia);
    
 }
