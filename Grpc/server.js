@@ -28,3 +28,17 @@ function listarSabores(call, callback) {
 		lstsorvete: listasorvete
 	});
 };
+
+//EDITANDO AQUI
+function RegistrarPedido(call, callback) {
+	const sabor = {
+		cod: call.request.cod,
+		nomesab: call.request.nomesab,
+		cobertura: call.request.cobertura,
+		preco: call.request.preco,
+	};
+
+	pedido.push(lanche);
+
+	callback(null, {});
+};
