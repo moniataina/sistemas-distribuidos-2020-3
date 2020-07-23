@@ -23,7 +23,7 @@ message Conta {
 service Servicosorveteria{
     rpc ListarSabores (Vazia) returns (ListaDeSabores);
     rpc RegistrarPedido (Sorvete) returns (Vazia);
-    rpc pedidofinalizado (vazia) returns(Conta);
+    rpc PedidoFinalizado (vazia) returns(Conta);
     rpc Deletarcarrinho (Sorvete) returns (vazia);
     rpc Apagarpedido (Sorvete) returns (vazia);
    
