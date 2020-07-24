@@ -50,7 +50,7 @@ client.ListarSabores({}, function(err, response) {
         console.log("erro ao chamar ListarSabores");
         return;
     }
-
+//conversão de valores em js para uma String  JSON
     console.log("Sabores: " + JSON.stringify(response.lstsorvete) );
 });
 	
