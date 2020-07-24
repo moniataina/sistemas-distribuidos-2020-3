@@ -1,5 +1,7 @@
 //MONIA TAINA TAVARES - UFMA
 //editando aqui<!>
+/*O RPC (Remote Procedure Call) define um protocolo para execução
+remota de procedures em computadores ligados em rede. O protocolo RPC pode ser implementado sobre diferentes protocolos de transporte. */
 
 // definição do caminho do arquivo proto
 
